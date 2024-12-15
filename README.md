@@ -1,1 +1,1 @@
-RL method for solving the crossing equation for conformal bootstrap.
+RL method for solving overconstrained systems of non-linear equations for conformal bootstrap.
